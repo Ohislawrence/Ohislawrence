@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ohislawrence
-- 👀 I’m interested in Laravel, VueJS
-- 🌱 I’m currently learning RESTful
+- 👀 I code with PHP(Laravel), VueJS
+- 🌱 RESTful API
 - 💞️ I’m looking to collaborate on fintech projects
 - 📫 you can reach me via email lawrenceohis@gmail.com
 
